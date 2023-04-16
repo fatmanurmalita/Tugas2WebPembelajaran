@@ -157,14 +157,14 @@ p {
     color: #364f6b;
 }
 
-.waktu-list {
+.times-list {
     width: 100%;
     position: relative;
     display: flex;
     flex-wrap: wrap;
 }
 
-.waktu {
+.times {
     width: 20%;
     margin: 0 auto;
 }
